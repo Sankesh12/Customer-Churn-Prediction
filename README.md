@@ -1,12 +1,21 @@
+<div align="center">
+
 # 📊 Customer Churn Prediction
 
-An End-to-End Machine Learning Project from raw customer data to a live Streamlit web application.
+### An End-to-End Machine Learning Project — from raw customer data to a live Streamlit web application.
 
-**Python • Scikit-Learn • Pandas • NumPy • Matplotlib • Seaborn • Streamlit • Joblib**
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-success?style=for-the-badge)
 
----
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](YOUR_STREAMLIT_URL)
 
-## 🔗 Live Demo
+</div>
 
 **Coming Soon**
 
