@@ -253,8 +253,6 @@ This project is developed for educational and learning purposes. The predictions
 
 If you found this project helpful, feel free to connect with me or provide your feedback.
 
-## 📬 Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/sankeshlal/" target="_blank">
