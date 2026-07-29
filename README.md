@@ -14,11 +14,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-FF4B4B?style=for-the-badge&logo=streamlit)
 
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](YOUR_STREAMLIT_URL)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://customer-churn-prediction-c.streamlit.app/)
 
 </div>
-
-**Coming Soon**
 
 ---
 
