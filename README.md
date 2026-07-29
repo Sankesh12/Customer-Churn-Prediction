@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction
 
-### An End-to-End Machine Learning Project — from raw customer data to a live Streamlit web application.
+### An End-to-End Machine Learning Project from raw customer data to a live Streamlit web application.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
