@@ -103,7 +103,7 @@ Customer_Churn_Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Customer_Churn_Prediction.git
+git clone https://github.com/Sankesh12/Customer_Churn_Prediction.git
 
 cd Customer_Churn_Prediction
 ```
