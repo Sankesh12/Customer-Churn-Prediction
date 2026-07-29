@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📊 Customer Churn Prediction
 
 ### An End-to-End Machine Learning Project — from raw customer data to a live Streamlit web application.
@@ -16,7 +14,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-FF4B4B?style=for-the-badge)](https://customer-churn-prediction-c.streamlit.app/)
 
-</div>
+
 
 ---
 
