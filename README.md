@@ -267,3 +267,5 @@ If you found this project helpful, feel free to connect with me or provide your 
 </a>
 
 </p>
+
+⭐ **If you found this project useful, consider giving it a star on GitHub. It motivates me to build and share more machine learning projects!**
